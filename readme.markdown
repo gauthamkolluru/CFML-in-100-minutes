@@ -4,7 +4,7 @@ CFML in 100 minutes was modified from [Ruby in 100 Minutes](http://jumpstartlab.
 
 ## Where is CFML in 100 minutes?
 
-CFML in 100 minutes is a simple markdown file for easy editing and contributions called "cfml100mins.markdown". Markdown is a lightweight markup language that converts its marked-up text input to valid, well-formed XHTML. You can click on the [cfml100mins.markdown](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) link to view the converted page.
+CFML in 100 minutes is a see [wiki](https://github.com/mhenke/CFML-in-100-minutes/wiki) using simple markdown file for easy editing and contributions. Markdown is a lightweight markup language that converts its marked-up text input to valid, well-formed XHTML.
 
 ## License
 
@@ -23,6 +23,12 @@ Daniel Short (@danshort on twitter) * [http://www.dansshorts.com](http://www.dan
 Craig Kaminsky (@craigkaminsky on twitter) * [http://craigkaminsky.me](http://craigkaminsky.me)
 
 Daniel Sellers (@daniel_sellers on twitter) * [http://designfrontier.net](http://designfrontier.net)
+
+Bradley Moore (@orangexception on twitter) * [http://orangexception.com](http://orangexception.com)
+
+Ryan Anklam * [GitHub](https://github.com/bittersweetryan) * [@bittersweetryan on twitter](http://twitter.com/#!/bittersweetryan) * [http://blog.bittersweetryan.com](http://blog.bittersweetryan.com)
+
+Nicholas Tunney [@ntunney on Twitter](http://www.twitter.com/ntunney)
 
 ## Git Workflow for Contributors
 
